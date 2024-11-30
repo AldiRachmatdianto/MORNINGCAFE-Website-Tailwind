@@ -1,0 +1,9 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Tailwind CSS build output (e.g., if you output to a build folder like "dist")
+dist/
+
+# Tailwind configuration files (if you don't want them tracked)
+tailwind.config.js
+postcss.config.js
